@@ -1,1 +1,2 @@
-Exercise submission for part 0, https://fullstackopen.com/en/part0
+# Exercise Submission
+For part 0, https://fullstackopen.com/en/part0
